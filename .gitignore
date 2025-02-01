@@ -1,0 +1,31 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+
+# Virtual Environment
+venv/
+.env/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables File
+.env
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
